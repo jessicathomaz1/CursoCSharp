@@ -14,6 +14,7 @@ namespace CursoCSharp {
                 {"Interpolação - Fundamentos", Interpolacao.Executar},
                 {"Lendo Dados- Fundamentos", LendoDados.Executar},
                 {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar},
+                {"Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar},
             });
 
             central.SelecionarEExecutar();
