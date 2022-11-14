@@ -13,6 +13,7 @@ namespace CursoCSharp {
                 {"Inferência - Fundamentos", Inferencia.Executar},
                 {"Interpolação - Fundamentos", Interpolacao.Executar},
                 {"Lendo Dados- Fundamentos", LendoDados.Executar},
+                {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar},
             });
 
             central.SelecionarEExecutar();
