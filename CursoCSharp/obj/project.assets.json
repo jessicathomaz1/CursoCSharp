@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vibe\\.nuget\\packages\\": {},
+    "C:\\Users\\VBNTB18426202\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vibe\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\VBNTB18426202\\Source\\Repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\vibe\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-      "packagesPath": "C:\\Users\\vibe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vibe\\source\\repos\\CursoCSharp\\CursoCSharp\\obj\\",
+      "projectPath": "C:\\Users\\VBNTB18426202\\Source\\Repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\VBNTB18426202\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VBNTB18426202\\Source\\Repos\\CursoCSharp\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\vibe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VBNTB18426202\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
